@@ -3,4 +3,8 @@ number++ // 5
 number//6 ... the number was incremented after it was evaluated. 
 number--
 number
-function ()
+function add(a,b)
+{
+  var n = a+b 
+  return n
+}
