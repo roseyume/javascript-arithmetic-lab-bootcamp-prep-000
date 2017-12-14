@@ -27,3 +27,8 @@ function divide(a,b)
   return n
 }
 
+function inc(n)
+{
+  return n++
+}
+
