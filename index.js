@@ -48,8 +48,3 @@ function preserveDecimal(n)
   return parseFloat(n)
 }
 
-function inc(n)
-{
-  return ++n
-}
-
